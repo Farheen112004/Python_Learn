@@ -1,1 +1,1 @@
-Hello , This Repository contains basic python functions
+Hello , This Repository contains basic python functions :)
