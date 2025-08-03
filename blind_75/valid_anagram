@@ -25,3 +25,4 @@ if __name__ == "__main__":
     t = input("")
     obj = Solution()
     print(obj.isAnagram(s, t))
+    
